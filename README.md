@@ -1,6 +1,6 @@
 # Ubuntu 18.04 Converting Python2 to Python3
 
-This is a quick guide for converting Python2 to Python3 script. Refer to https://stackoverflow.com/questions/31228927/how-to-use-install-python-2to3
+This is a quick guide for converting Python2 to Python3 script. Refer to https://stackoverflow.com/questions/31228927/how-to-use-install-python-2to3 or https://www.youtube.com/watch?v=8qxKYnAsNuU 
 
 You need to first install the following packages:
 
