@@ -5,7 +5,9 @@ This is a quick guide for converting Python2 to Python3 script. Refer to https:/
 You need to first install the following packages:
 
 apt install 2to3
+
 apt install python3-lib2to3
+
 apt install python3-toolz
 
 Then, You can simply go to that directory your python file is in and type the following command:
